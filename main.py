@@ -1,3 +1,5 @@
+#Paige Neff
+
 menu = '''Menu
 -------------
 1. Encode
@@ -19,3 +21,4 @@ if __name__ == '__main__':
             encoded = encode(password)
             print('Your password has been encoded and stored!')
 
+n = 0
