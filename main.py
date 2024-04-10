@@ -20,5 +20,3 @@ if __name__ == '__main__':
             password = input('Please enter your password to encode: ')
             encoded = encode(password)
             print('Your password has been encoded and stored!')
-
-n = 0
